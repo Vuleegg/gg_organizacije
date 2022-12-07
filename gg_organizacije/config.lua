@@ -1,7 +1,7 @@
 Config = {}
 Config.Debug = false -- da vidis zone(zahteva PolyZone)
 Config.Blip = true -- ako zelite da  igraci vide blip na mapi gde im je organizacija(igrac mora uraditi relog radi refresh)
-Config.WebHook = "VAS WEBHUK OVDE"
+Config.WebHook = "VAS WEBHUK OVDE" -- trenutno neaktivno 
 
 Config.Mafije = {
     zemunski = {
